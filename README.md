@@ -1,15 +1,6 @@
-# Avalanche-Subnets
-
-## ERC20 Token and Vault Smart Contract
+# a-DeFi-Kingdom-Clone-on-Avalanche
 
 ## Overview
-
-This repository hosts two Solidity smart contracts: `ERC20.sol` and `vault.sol`. The `ERC20.sol` contract establishes a basic ERC-20 token, incorporating essential functions such as transfer, approve, mint, and burn. On the other hand, the `vault.sol` contract serves as a secure storage solution for the ERC-20 token, enabling users to deposit and withdraw tokens while managing the overall supply and individual balances.
-
-## Getting Started with Remix:
-
-### Prerequisites:
-
 1. Install Remix IDE on your web browser.
 2. Ensure compatibility with an Ethereum wallet (e.g., MetaMask) for interacting with contracts on the Ethereum blockchain.
 
@@ -48,7 +39,7 @@ Once deployed, interact with the contracts through the provided functions:
 
 ## Authors
 
-- pras777
+- anish
 
 ## License:
 
